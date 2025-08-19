@@ -1,1 +1,1 @@
-This repository contains from-scratch implementation codes for the Data Structures class.
+This repository contains from-scratch implementation codes for Data Structures class.
